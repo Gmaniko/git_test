@@ -1,0 +1,1 @@
+This is Gmaniko's first git project!
